@@ -10,10 +10,13 @@ export default function Cat() {
         setCat(cat[0].url);
     }
 
-    React.useEffect(() => { fetchCat(); }, []);
+    React.useEffect(() => { 
+        fetchCat(); 
+        console.log("I ran")
+    }, []);
     return (
       <div className="Cat">
-        <img src={catUrl} alt="cat" />
+        { catUrl && <img src={catUrl} alt="cat" />}
       </div>
     );
 }
