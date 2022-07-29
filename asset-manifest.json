@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kittytime/static/css/main.073c9b0a.css",
-    "main.js": "/kittytime/static/js/main.41c28f91.js",
+    "main.js": "/kittytime/static/js/main.737d49fa.js",
     "static/js/787.0d00608d.chunk.js": "/kittytime/static/js/787.0d00608d.chunk.js",
     "index.html": "/kittytime/index.html",
     "main.073c9b0a.css.map": "/kittytime/static/css/main.073c9b0a.css.map",
-    "main.41c28f91.js.map": "/kittytime/static/js/main.41c28f91.js.map",
+    "main.737d49fa.js.map": "/kittytime/static/js/main.737d49fa.js.map",
     "787.0d00608d.chunk.js.map": "/kittytime/static/js/787.0d00608d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.41c28f91.js"
+    "static/js/main.737d49fa.js"
   ]
 }
