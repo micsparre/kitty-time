@@ -6,14 +6,15 @@ export default function Cat() {
 
     const fetchCat = async () => {
         const cat : CatResponse[] = await CatCall();
-        console.log("cat obj", cat)
         setCat(cat[0].url);
     }
 
     React.useEffect(() => { 
         fetchCat(); 
-        console.log("I ran")
     }, []);
+
+    
+
     return (
       <div className="Cat">
         { catUrl && <img src={catUrl} alt="cat" />}
