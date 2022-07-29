@@ -13,8 +13,6 @@ export default function Cat() {
         fetchCat(); 
     }, []);
 
-    
-
     return (
       <div className="Cat">
         { catUrl && <img src={catUrl} alt="cat" />}
