@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kittytime/static/css/main.073c9b0a.css",
-    "main.js": "/kittytime/static/js/main.737d49fa.js",
-    "static/js/787.0d00608d.chunk.js": "/kittytime/static/js/787.0d00608d.chunk.js",
-    "index.html": "/kittytime/index.html",
-    "main.073c9b0a.css.map": "/kittytime/static/css/main.073c9b0a.css.map",
-    "main.737d49fa.js.map": "/kittytime/static/js/main.737d49fa.js.map",
-    "787.0d00608d.chunk.js.map": "/kittytime/static/js/787.0d00608d.chunk.js.map"
+    "main.css": "/kitty-time/static/css/main.073c9b0a.css",
+    "main.js": "/kitty-time/static/js/main.7f982b97.js",
+    "static/js/787.6a6c721a.chunk.js": "/kitty-time/static/js/787.6a6c721a.chunk.js",
+    "index.html": "/kitty-time/index.html",
+    "main.073c9b0a.css.map": "/kitty-time/static/css/main.073c9b0a.css.map",
+    "main.7f982b97.js.map": "/kitty-time/static/js/main.7f982b97.js.map",
+    "787.6a6c721a.chunk.js.map": "/kitty-time/static/js/787.6a6c721a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.737d49fa.js"
+    "static/js/main.7f982b97.js"
   ]
 }
